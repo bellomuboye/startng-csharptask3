@@ -1,0 +1,11 @@
+/home/definebell/Desktop/Start.NG/Csharp/GuessingGame/bin/Debug/netcoreapp3.1/GuessingGame
+/home/definebell/Desktop/Start.NG/Csharp/GuessingGame/bin/Debug/netcoreapp3.1/GuessingGame.deps.json
+/home/definebell/Desktop/Start.NG/Csharp/GuessingGame/bin/Debug/netcoreapp3.1/GuessingGame.runtimeconfig.json
+/home/definebell/Desktop/Start.NG/Csharp/GuessingGame/bin/Debug/netcoreapp3.1/GuessingGame.runtimeconfig.dev.json
+/home/definebell/Desktop/Start.NG/Csharp/GuessingGame/bin/Debug/netcoreapp3.1/GuessingGame.dll
+/home/definebell/Desktop/Start.NG/Csharp/GuessingGame/bin/Debug/netcoreapp3.1/GuessingGame.pdb
+/home/definebell/Desktop/Start.NG/Csharp/GuessingGame/obj/Debug/netcoreapp3.1/GuessingGame.csprojAssemblyReference.cache
+/home/definebell/Desktop/Start.NG/Csharp/GuessingGame/obj/Debug/netcoreapp3.1/GuessingGame.AssemblyInfoInputs.cache
+/home/definebell/Desktop/Start.NG/Csharp/GuessingGame/obj/Debug/netcoreapp3.1/GuessingGame.AssemblyInfo.cs
+/home/definebell/Desktop/Start.NG/Csharp/GuessingGame/obj/Debug/netcoreapp3.1/GuessingGame.dll
+/home/definebell/Desktop/Start.NG/Csharp/GuessingGame/obj/Debug/netcoreapp3.1/GuessingGame.pdb
